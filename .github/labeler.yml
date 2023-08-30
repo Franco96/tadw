@@ -1,2 +1,4 @@
-label3:
+estructura:
 - '**/*.html'
+estilo:
+- '**/*.css'
